@@ -1,7 +1,7 @@
 # API XML - Web Services 
 
-### NOM : DOE
-### Prénom : John
+### NOM : Kane
+### Prénom : Demba-Elimane
 ### Groupe de TP : 
 - [x] 1
 
