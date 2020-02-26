@@ -40,7 +40,6 @@ public class RoomBookingSaxParserTest {
     public void testParseInputStreamWithFile2() throws IOException, ParseException {
         // given : an xml file corresponding to a room
         InputStream inputStream = this.getClass().getResourceAsStream("/roombooking-sample-2.xml");
-
         // when : we parse the xml file with a room booking parser instance
         RoomBooking roomBooking = roomBookingParser.parse(inputStream);
 
