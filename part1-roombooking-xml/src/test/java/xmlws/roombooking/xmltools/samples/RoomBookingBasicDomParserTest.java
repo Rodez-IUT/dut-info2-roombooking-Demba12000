@@ -12,8 +12,10 @@ public class RoomBookingBasicDomParserTest {
         // and : a basic dom parser
         RoomBookingBasicDomParser roomBookingBasicDomParser = new RoomBookingBasicDomParser();
         // when : we parse the xml file with a room booking parser instance
+
         roomBookingBasicDomParser.parse(inputStream);
         // then: it's fine :-)
 
     }
+
 }

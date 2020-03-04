@@ -14,4 +14,5 @@ public interface RoomBookingParser {
      * @return the corresponding RoomBooking object
      */
     public RoomBooking parse(InputStream inputStream);
+
 }
